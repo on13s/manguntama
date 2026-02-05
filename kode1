@@ -1,0 +1,16 @@
+code
+Bash
+# Inisialisasi git di folder
+git init
+
+# Tambahkan semua file
+git add .
+
+# Simpan perubahan (Commit)
+git commit -m "Initial commit website Manguntama"
+
+# Hubungkan ke GitHub (Ganti [USERNAME] dengan username GitHub Anda)
+git remote add origin https://github.com/on13s/manguntama-website.git
+
+# Kirim kode ke GitHub
+git push -u origin main

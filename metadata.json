@@ -1,0 +1,7 @@
+{
+  "name": "PT Manguntama Reka Persada - Architecture Portfolio",
+  "description": "A sophisticated and modern architectural portfolio website for PT Manguntama Reka Persada, featuring a showcase of projects and an intelligent AI assistant for client inquiries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
